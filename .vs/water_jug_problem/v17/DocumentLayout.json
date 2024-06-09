@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\water_jug_problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAC6871-8D9D-4B1E-95D2-E6A27AF35CD0}|water_jug_problem\\water_jug_problem.vcxproj|D:\\Projects\\water_jug_problem\\water_jug_problem\\waterJug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECAC6871-8D9D-4B1E-95D2-E6A27AF35CD0}|water_jug_problem\\water_jug_problem.vcxproj|solutionrelative:water_jug_problem\\waterJug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "waterJug.cpp",
+              "DocumentMoniker": "D:\\Projects\\water_jug_problem\\water_jug_problem\\waterJug.cpp",
+              "RelativeDocumentMoniker": "water_jug_problem\\waterJug.cpp",
+              "ToolTip": "D:\\Projects\\water_jug_problem\\water_jug_problem\\waterJug.cpp",
+              "RelativeToolTip": "water_jug_problem\\waterJug.cpp",
+              "ViewState": "AQIAAB4AAAAANDMzMzP7vwgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T14:41:14.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
